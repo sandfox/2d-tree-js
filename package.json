@@ -1,0 +1,13 @@
+{
+  "name": "2d-tree-js",
+  "version": "0.0.1",
+  "description": "2 dimesional kdtree implementation for nodejs and the browser",
+  "keywords": [],
+  "author": "sandfox <james.butler@sandfox.co.uk>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
